@@ -1,11 +1,11 @@
 # Site settings
 author: Elliot Blanchard
-title: 
+title: Design to Dev
 header-img: img/home-bg.png
 email: public@elliotblanchard.com
 copyright_name: Elliot Blanchard
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Exploring Code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  elliotblanchard
