@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Connecting New Yorkers to food banks"
-date:       2020-05-05 02:48:57 +0000
+date:       2020-05-04 22:48:58 -0400
 permalink:  connecting_new_yorkers_to_food_banks
 ---
 
