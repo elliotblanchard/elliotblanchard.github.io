@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Collab Visuals: Create Together"
-date:       2020-10-23 01:51:25 +0000
+date:       2020-10-22 21:51:26 -0400
 permalink:  collab_visuals_create_together
 ---
 
