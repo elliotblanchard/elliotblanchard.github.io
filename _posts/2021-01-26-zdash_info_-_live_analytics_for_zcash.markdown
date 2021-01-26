@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Zdash.info - Live analytics for Zcash"
-date:       2021-01-26 16:43:30 +0000
+title:      "Zdash.info: Live analytics for Zcash"
+date:       2021-01-26 11:43:31 -0500
 permalink:  zdash_info_-_live_analytics_for_zcash
 ---
 
